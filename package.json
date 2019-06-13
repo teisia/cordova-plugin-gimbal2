@@ -1,0 +1,35 @@
+{
+    "name": "cordova-plugin-gimbal2",
+    "version": "1.0.0",
+    "description": "A Cordova plugin for scanning and interacting with Qualcomm Gimbal beacons. Updated for Gimbal SDK v2.",
+    "cordova": {
+        "id": "cordova-plugin-gimbal2",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/happydenn/cordova-plugin-gimbal2#1.0.0"
+    },
+    "keywords": [
+        "gimbal",
+        "qualcomm",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=6.0.0"
+        }
+    ],
+    "author": "happydenn",
+    "license": "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/happydenn/cordova-plugin-gimbal2/issues"
+    },
+    "homepage": "https://github.com/happydenn/cordova-plugin-gimbal2/blob/master/README.md"
+}
